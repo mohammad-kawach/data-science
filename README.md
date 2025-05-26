@@ -92,7 +92,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
-### Introduction to Computer Science
+### Introduction to Computer Science ✅
 
 _Students who already know basic programming in any language can skip this first course_
 
@@ -102,7 +102,7 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
-### Data Structures and Algorithms
+### Data Structures and Algorithms ✅
 
 _The Algorithms courses are taught in Java. If students need to learn Java, they should take this course first_
 
@@ -130,7 +130,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [MongoDB for Developers Learning Path](https://learn.mongodb.com/pages/mongodb-developer-learning-paths)
 
-### Single Variable Calculus
+### Single Variable Calculus  ✅
 
 [Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
 
@@ -138,17 +138,17 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Calculus 1C: Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
 
-### Linear Algebra
+### Linear Algebra  ✅
 
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
-### Multivariable Calculus
+### Multivariable Calculus  ✅
 
 [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
-### Statistics & Probability
+### Statistics & Probability  ✅
 
 [Introduction to Probability](https://projects.iq.harvard.edu/stat110/home)
 
